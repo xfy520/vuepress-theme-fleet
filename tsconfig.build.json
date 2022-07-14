@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.base.json",
+  "references": [
+    {
+      "path": "./packages/theme/tsconfig.build.json"
+    },
+    {
+      "path": "./packages/plugins/mermaid/tsconfig.build.json"
+    },
+    {
+      "path": "./packages/plugins/prism/tsconfig.build.json"
+    },
+  ],
+  "files": []
+}

@@ -1,0 +1,8 @@
+node_modules
+dist
+packages/**/**/lib
+
+
+prism-autolinker.js
+prism-download-button.js
+lang.js
